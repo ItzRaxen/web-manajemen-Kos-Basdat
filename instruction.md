@@ -1,7 +1,7 @@
 Buatkan sebuah Prototipe Visual (Mockup) Aplikasi Web Manajemen Kos yang statis, modern, dan responsif.
 
 Tujuan:
-Aplikasi ini berfungsi sebagai demo visual (mockup) untuk sistem manajemen internal "Griya Asri". Tujuannya adalah untuk menunjukkan tampilan (UI/UX) aplikasi kepada 2 tipe pengguna: Pemilik dan Penghuni.
+Aplikasi ini berfungsi sebagai demo visual (mockup) untuk sistem manajemen internal "Kos Gacor". Tujuannya adalah untuk menunjukkan tampilan (UI/UX) aplikasi kepada 2 tipe pengguna: Pemilik dan Penghuni.
 
 PENTING: Aplikasi ini statis (tidak fungsional). Tidak ada backend (PHP) dan tidak ada koneksi database. Semua data di-hardcode (dummy data).
 
@@ -47,7 +47,7 @@ Struktur Fungsional per Halaman (Mockup):
 
 Setiap file .html (kecuali login.html) harus memiliki Navbar dan Footer yang identik (copy-paste).
 
-Navbar: Harus sticky dengan nama "Griya Asri".
+Navbar: Harus sticky dengan nama "Kos Gacor".
 
 Tautan di Navbar harus mengarah ke file .html yang sesuai (misal: "Dashboard" -> index-penghuni.html, "Laporan" -> laporan-penghuni.html).
 
