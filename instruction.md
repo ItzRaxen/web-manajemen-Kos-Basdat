@@ -1,7 +1,7 @@
-Buatkan sebuah Prototipe Visual (Mockup) Aplikasi Web Manajemen Kos yang statis, modern, dan responsif.
+﻿Buatkan sebuah Prototipe Visual (Mockup) Aplikasi Web Manajemen Kos yang statis, modern, dan responsif.
 
 Tujuan:
-Aplikasi ini berfungsi sebagai demo visual (mockup) untuk sistem manajemen internal "Kos Gacor". Tujuannya adalah untuk menunjukkan tampilan (UI/UX) aplikasi kepada 2 tipe pengguna: Pemilik dan Penghuni.
+Aplikasi ini berfungsi sebagai demo visual (mockup) untuk sistem manajemen internal "Kos Berkah". Tujuannya adalah untuk menunjukkan tampilan (UI/UX) aplikasi kepada 2 tipe pengguna: Pemilik dan Penghuni.
 
 PENTING: Aplikasi ini statis (tidak fungsional). Tidak ada backend (PHP) dan tidak ada koneksi database. Semua data di-hardcode (dummy data).
 
@@ -47,7 +47,7 @@ Struktur Fungsional per Halaman (Mockup):
 
 Setiap file .html (kecuali login.html) harus memiliki Navbar dan Footer yang identik (copy-paste).
 
-Navbar: Harus sticky dengan nama "Kos Gacor".
+Navbar: Harus sticky dengan nama "Kos Berkah".
 
 Tautan di Navbar harus mengarah ke file .html yang sesuai (misal: "Dashboard" -> index-penghuni.html, "Laporan" -> laporan-penghuni.html).
 
@@ -138,3 +138,5 @@ Tampilkan daftar pengumuman dummy (hardcode) dalam bentuk kartu, diurutkan dari 
 Contoh: "Perbaikan WiFi (10 Mei 2025)", "Kerja Bakti Bulanan (5 Mei 2025)".
 
 Jika ini halaman untuk pemilik (pengumuman-pemilik.html), tambahkan tombol palsu "Buat Pengumuman Baru".
+
+
